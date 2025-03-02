@@ -1,0 +1,5 @@
+Fazer exercícios estilo presencial:
+IF para avaliar se o produto é Ticket Alto (Acima de R$4.000) ou Ticket Baixo (Abaixo)
+Desconto dia das mães para quem é mulher e tem filho
+
+Coluna para avaliar se é fds ou não (dia 6 ou 7)
